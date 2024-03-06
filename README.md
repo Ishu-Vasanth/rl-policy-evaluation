@@ -42,6 +42,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ![rl2](https://github.com/Ishu-Vasanth/rl-policy-evaluation/assets/94154614/5f21b9f5-da06-407a-8f26-e500563d55e0)
 
 ## Program
+DEVELOPED BY: ISHWARYA V
+REG NO: 212221240016
 ```
 def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
    	'''Initialize 1st Iteration estimates of state-value function(V) to zero'''
