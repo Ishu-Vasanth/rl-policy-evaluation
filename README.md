@@ -43,6 +43,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## Program
 DEVELOPED BY: ISHWARYA V
+
 REG NO: 212221240016
 ```
 def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
